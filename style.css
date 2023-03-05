@@ -26,6 +26,8 @@ body
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(0,0,0,0.1);
+    border-radius: 50px;
+    overflow: hidden;
 }
 .container .left_Side
 {
@@ -49,6 +51,7 @@ body
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    overflow: hidden;
     
 }
 
